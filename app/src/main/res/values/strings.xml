@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Medica</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="default_info_title">your location</string>
+    <string name="default_info_snippet">you snippet</string>
+    <string name="pick_place">Picking Place</string>
+    <string name="MAPS_API_KEY">AIzaSyD52z4of0IaLbG9hoSqdouFn0DnWzYMI9c</string>
+    <string name="facebook_app_id">1979978838834944</string>
+    <string name="fb_login_protocol_scheme">fb1979978838834944</string>
+
+</resources>
